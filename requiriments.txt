@@ -1,0 +1,10 @@
+# requirements.txt
+# Dependências básicas
+Pillow==10.3.0
+pytesseract==0.3.10
+natsort==8.4.0
+gTTS==2.5.1
+
+# Dependências do sistema (instalar manualmente)
+# tesseract-ocr
+# tesseract-ocr-por
