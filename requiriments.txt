@@ -3,7 +3,7 @@
 Pillow==10.3.0
 pytesseract==0.3.10
 natsort==8.4.0
-gTTS==2.5.1
+edge-tts==6.1.9
 
 # Dependências do sistema (instalar manualmente)
 # tesseract-ocr
